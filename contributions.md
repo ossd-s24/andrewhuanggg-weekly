@@ -23,5 +23,7 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 20   | [Student Debt Wikipedia Article](https://en.wikipedia.org/w/index.php?title=Student_debt&oldid=1209252999)    | Wikipedia Edit   |   Edited section regarding Canada's Interest Relief Program.    |
-|     |     |     |      |
-|     |     |     |      |
+|  Feb 20   |  [Locust Lane](https://www.openstreetmap.org/changeset/147713709#map=19/39.87290/-75.55585)   |  OpenStreetMap Feature   |     Added speed limit for a street in my neighborhood |
+|  Feb 20   |  [Evergreen Place](https://www.openstreetmap.org/changeset/147713725)   |  OpenStreetMap Feature   |   Added speed limit for a street in my neighborhood   |
+|  Feb 20   |  [Poplar Road](https://www.openstreetmap.org/changeset/147713732#map=19/39.87112/-75.55277)   |  OpenStreetMap Feature   |   Added speed limit for a street in my neighborhood   |
+|  Feb 20   |  [Magnolia Way](https://www.openstreetmap.org/changeset/147713740#map=17/39.87092/-75.55175)   |  OpenStreetMap Feature   |   Added speed limit for a street in my neighborhood   |
