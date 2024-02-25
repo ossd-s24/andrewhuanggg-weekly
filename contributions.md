@@ -28,4 +28,5 @@ Replace the first row with your own contribution.
 |  Feb 20   |  [Poplar Road](https://www.openstreetmap.org/changeset/147713732#map=19/39.87112/-75.55277)   |  OpenStreetMap Feature   |   Added speed limit for a street in my neighborhood   |
 |  Feb 20   |  [Magnolia Way](https://www.openstreetmap.org/changeset/147713740#map=17/39.87092/-75.55175)   |  OpenStreetMap Feature   |   Added speed limit for a street in my neighborhood   |
 |  Feb 23   |  [High School](https://www.openstreetmap.org/changeset/147739927)   |  OpenStreetMap Feature   |   Updated information for my high school  |
-|  Feb 23   |  [Delco's Original Steaks & Hoagies](https://www.openstreetmap.org/changeset/147739927)   |  OpenStreetMap Feature   |   Added local cheesesteak shop to map of Chadds Ford area  |
+|  Feb 23   |  [Delco's Original Steaks & Hoagies](https://www.openstreetmap.org/changeset/147905684)   |  OpenStreetMap Feature   |   Added local cheesesteak shop to map of Chadds Ford area  |
+|  Feb 23   |  [Gran Rodeo](https://www.openstreetmap.org/changeset/147905779#map=19/39.88212/-75.54819)   |  OpenStreetMap Feature   |   Added Mexican restaurant to map of Chadds Ford area  |
