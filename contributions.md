@@ -32,3 +32,4 @@ Replace the first row with your own contribution.
 |  Feb 25   |  [Gran Rodeo](https://www.openstreetmap.org/changeset/147905779#map=19/39.88212/-75.54819)   |  OpenStreetMap Feature   |   Added Mexican restaurant to map of Chadds Ford area  |
 |  Feb 25   |  [X Golf](https://www.openstreetmap.org/changeset/147905904)   |  OpenStreetMap Feature   |   Added indoor golf course to map of Chadds Ford area  |
 |  Feb 25   |  [CHOP](https://www.openstreetmap.org/changeset/147906117)   |  OpenStreetMap Feature   |   Added CHOP Primary care to map of Chadds Ford area  |
+|  Feb 25   |  https://github.com/joannakl/ossd/pull/95   |  Course Website   |   Issued a pull request for fixing heading in README file of repository  |
