@@ -35,3 +35,4 @@ Replace the first row with your own contribution.
 |  Feb 25   |  [Fixed heading](https://github.com/joannakl/ossd/pull/95)   |  Course Website   |   Issued a pull request for fixing heading in README file of repository  |
 |  Feb 25   |  [Suggestion](https://github.com/joannakl/ossd/issues/96)   |  Course Website   |   Suggested a change regarding the Course Materials section of home page  |
 |  Feb 25   |  [Issue](https://github.com/ossd-s24/tchen0125-weekly/issues/1)   |  Student Blog   |   raised issue regarding using the <!--more--> separator |
+|  Feb 27  |  [Issue](https://github.com/joannakl/ossd/issues/100)   |  Course Website   |   raised issue regarding the link for the project preferences form |
