@@ -38,3 +38,4 @@ Replace the first row with your own contribution.
 |  Feb 27  |  [Issue](https://github.com/joannakl/ossd/issues/100)   |  Course Website   |   raised issue regarding the link for the project preferences form |
 |  Feb 27  |  [National Peace Corps Association](https://en.wikipedia.org/w/index.php?title=National_Peace_Corps_Association&oldid=1210685201)   |  Wikipedia Edit   |   fixed grammar and spelling errors |
 |  Feb 27  |  [Google Apps Script](https://en.wikipedia.org/w/index.php?title=Google_Apps_Script&oldid=1210686060)   |  Wikipedia Edit   |   writing about technical details from a more neutral point of view |
+|  March 25  |  [Convenience Store](https://www.openstreetmap.org/changeset/149145204)   |  OpenStreetMap Feature  |   added convenience store near my apartment |
