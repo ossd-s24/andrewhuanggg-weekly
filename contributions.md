@@ -40,3 +40,4 @@ Replace the first row with your own contribution.
 |  Feb 27  |  [Google Apps Script](https://en.wikipedia.org/w/index.php?title=Google_Apps_Script&oldid=1210686060)   |  Wikipedia Edit   |   writing about technical details from a more neutral point of view |
 |  March 25  |  [Convenience Store](https://www.openstreetmap.org/changeset/149145204)   |  OpenStreetMap Feature  |   added convenience store near my apartment |
 |  March 25  |  [Mangzhong Wikipedia Article](https://en.wikipedia.org/w/index.php?title=Mangzhong&oldid=1215541204)   |  Wikipedia Edit  |   added missing citations in |
+|  March 29  |  [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server/pull/10047)   |  Merged Pull Request  |   wrote documentation regarding how to install development environment using WSL (Windows Subsystem for Linux) |
