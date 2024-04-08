@@ -42,3 +42,5 @@ Replace the first row with your own contribution.
 |  March 25  |  [Mangzhong Wikipedia Article](https://en.wikipedia.org/w/index.php?title=Mangzhong&oldid=1215541204)   |  Wikipedia Edit  |   added missing citations in |
 |  March 29  |  [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server/pull/10047)   |  Merged Pull Request  |   wrote documentation regarding how to install development environment using WSL (Windows Subsystem for Linux) |
 |  March 30  |  [OpenFoodFacts Code of Conduct](https://crowdin.com/editor/openfoodfacts/2727/en-zhcn?view=comfortable&filter=basic&value=0)   |  Documentation Translation  |   translated code of conduct to Chinese |
+|  April 8  |  [OpenFoodFacts Food Groups](https://crowdin.com/editor/openfoodfacts/2935/en-zhcn?view=comfortable&filter=basic&value=0)   |  Documentation Translation  |   translated food groups doc to Chinese |
+|  April 8  |  [OpenFoodFacts Contacts Page](https://crowdin.com/editor/openfoodfacts/2829/en-zhcn?view=comfortable&filter=basic&value=0)   |  Documentation Translation  |   translated contacts page to Chinese |
