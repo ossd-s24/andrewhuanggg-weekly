@@ -44,3 +44,5 @@ Replace the first row with your own contribution.
 |  March 30  |  [OpenFoodFacts Code of Conduct](https://crowdin.com/editor/openfoodfacts/2727/en-zhcn?view=comfortable&filter=basic&value=0)   |  Documentation Translation  |   translated code of conduct to Chinese |
 |  April 8  |  [OpenFoodFacts Food Groups](https://crowdin.com/editor/openfoodfacts/2935/en-zhcn?view=comfortable&filter=basic&value=0)   |  Documentation Translation  |   translated food groups doc to Chinese |
 |  April 8  |  [OpenFoodFacts Contacts Page](https://crowdin.com/editor/openfoodfacts/2829/en-zhcn?view=comfortable&filter=basic&value=0)   |  Documentation Translation  |   translated contacts page to Chinese |
+|  April 21   |  [Creperie](https://www.openstreetmap.org/changeset/147906117)   |  OpenStreetMap Feature   |   Added information about a Creperie in my area  |
+|  April 21   |  [NYU Pauslon Center](https://www.openstreetmap.org/changeset/150324471)   |  OpenStreetMap Feature   |   Added information about NYU Paulson Center  |
