@@ -48,3 +48,4 @@ Replace the first row with your own contribution.
 |  April 21   |  [NYU Pauslon Center](https://www.openstreetmap.org/changeset/150324471)   |  OpenStreetMap Feature   |   Added information about NYU Paulson Center  |
 |  April 25   |  [Raised issue](https://github.com/openfoodfacts/openfoodfacts-server/issues/10176)   |  GitHub Issue   |   Raised issue about npm package issue and my fix  |
 |  April 26   |  [OpenFoodFacts Drinks Table](https://crowdin.com/editor/openfoodfacts/2919/en-zhcn?view=comfortable&filter=basic&value=0)   |  Translation   |   Translated drinks table to chinese  |
+|  April 28   |  [Turtle(Entourage)](https://en.wikipedia.org/w/index.php?title=Turtle_(Entourage)&oldid=1221235532)   |  Wikiepedia Edit  |   Rewriting paragraphs to provide non-fictional perspective  |
